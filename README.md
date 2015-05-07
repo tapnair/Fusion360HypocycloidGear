@@ -2,7 +2,7 @@
 
 Derived from: http://www.zincland.com/hypocycloid/
 
-# ![](./resources/32x32.png) EditParam
+# ![](./resources/32x32.png) Fusion360HypocycloidGear
 
 This is an [Autodesk Fusion 360](http://fusion360.autodesk.com/) script that's used for simply editing user parameters.
 
