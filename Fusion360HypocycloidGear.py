@@ -196,7 +196,7 @@ class GearCommandExecuteHandler(adsk.core.CommandEventHandler):
                 n = 10
                 ang = 50.0
                 c = 0.01
-                s = 100
+                s = 2000
             else:
                 p = unitsMgr.evaluateExpression(p_in.expression, "in")
                 d = unitsMgr.evaluateExpression(d_in.expression, "in")
