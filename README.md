@@ -50,3 +50,7 @@ Note, after the script has run the design changes may be undone using Edit -> Un
 ### Example Usage
 
 Here is an example of using the script to create a 30:1 reduction Gear set:
+https://myhub.autodesk360.com/ue29cd685/shares/public/SHabee1QT1a327cf2b7a2c152603d4ad0373
+
+<iframe src="https://myhub.autodesk360.com/ue29cd685/shares/public/SHabee1QT1a327cf2b7a2c152603d4ad0373?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
